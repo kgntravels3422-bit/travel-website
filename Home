@@ -1,0 +1,74 @@
+  <!DOCTYPE html>
+<html>
+
+<head>
+  <title>KGN Tour & Travels</title>
+
+  <style>
+
+    body{
+      margin:0;
+      font-family:Arial;
+      text-align:center;
+      background:#f4f4f4;
+    }
+
+    nav{
+      background:#0b5ed7;
+      padding:15px;
+    }
+
+    nav a{
+      color:white;
+      margin:15px;
+      text-decoration:none;
+      font-size:18px;
+    }
+
+    .hero{
+      padding:100px 20px;
+      background:white;
+    }
+
+    h1{
+      color:#0b5ed7;
+      font-size:50px;
+    }
+
+    .btn{
+      background:#0b5ed7;
+      color:white;
+      padding:12px 25px;
+      text-decoration:none;
+      border-radius:8px;
+      display:inline-block;
+      margin-top:20px;
+    }
+
+  </style>
+
+</head>
+
+<body>
+
+<nav>
+  <a href="index.html">Home</a>
+  <a href="about.html">About</a>
+  <a href="services.html">Services</a>
+  <a href="contact.html">Contact</a>
+</nav>
+
+<div class="hero">
+
+<h1>KGN Tour & Travels</h1>
+
+<p>Trusted Taxi & Odisha Tour Service</p>
+
+<a class="btn" href="https://wa.me/919090057842">
+Book on WhatsApp
+</a>
+
+</div>
+
+</body>
+</html>
